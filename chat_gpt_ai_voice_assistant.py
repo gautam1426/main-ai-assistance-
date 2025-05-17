@@ -11,7 +11,7 @@ load_dotenv()
 engine = pyttsx3.init()
 
 # Get API key from environment
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("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")
 
 # System setup
 messages = [{"role": "system", "content": "You are Miku, an anime-style virtual assistant. Speak in a cute, friendly tone and keep responses concise (1-2 lines)."}]
