@@ -7,8 +7,8 @@ listening = True
 engine = pyttsx3.init()
 
 #Set your openai api key and customizing the chatgpt role
-openai.api_key = "xyz"
-messages = [{"role": "system", "content": "Your name is Rocky and give answers in 2 lines"}]
+openai.api_key = "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"
+messages = [{"role": "system", "content": "Your name is Miku and give answers in 2 lines"}]
 
 #Customizing The output voice
 voices = engine.getProperty('voices')
