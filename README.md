@@ -38,8 +38,7 @@ sudo apt install python3 python3-pip portaudio19-dev libasound2-dev espeak -y
 
 ### **3. Clone & Configure the Project**  
 ```bash
-git clone https://github.com/yourusername/miku-voice-assistant.git
-cd miku-voice-assistant
+git clone https://github.com/gautam1426/main-ai-assistance-.git
 ```
 
 #### **Set Up Environment Variables**  
