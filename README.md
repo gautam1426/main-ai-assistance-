@@ -1,8 +1,6 @@
 # **Miku Voice Assistant** 🎤✨  
 *A cute anime-style virtual assistant for Raspberry Pi*  
 
-![Miku Assistant Demo](demo.gif) *(Example: Replace with actual demo image)*  
-
 ---
 
 ## **Features** 🌟  
